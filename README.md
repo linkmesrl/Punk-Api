@@ -6,10 +6,10 @@ Create a SPA  that allows the user to filter and order the beers by any combinat
 - Decide the architecture of your components and their communication.
 - Style: Feel free to use any style or framework or even plain css.
 
-## Documentation: https://punkapi.com/documentation
+## Documentation: https://punkapi.com/documentation/v2
 
 ## Steps:
-- Get api key
+- Follow the istructions above and get data.
 - Display the list of beers with data from APIs.
 - Filter by ABV (Alcohol By Volume) attribute, 2% to 12%
 - Filter by IBU (International Bitterness Units) attribute, 0 to 100
